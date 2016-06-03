@@ -10,6 +10,6 @@
     
 2. `JSX`在浏览器中转换，需要依赖`<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js"></script>`
 
-    通常情况，先在后台转换，提交浏览器渲染效率
+    通常情况，先在后台转换，提高浏览器渲染效率
 
 参考连接：[http://reactjs.cn/react/docs/getting-started.html](http://reactjs.cn/react/docs/getting-started.html)
